@@ -1,0 +1,54 @@
+| Property              | Common values                                                           |
+| --------------------- | ----------------------------------------------------------------------- |
+| color                 | red, #ff0000, rgb(255,0,0), rgba(...), hsl(...)                         |
+| background-color      | color names, hex, rgb(...), rgba(...), transparent                      |
+| background-image      | url(...), none                                                          |
+| background-repeat     | repeat, repeat-x, repeat-y, no-repeat                                   |
+| background-position   | left, center, right, top, bottom, lengths, percentages                  |
+| background-size       | auto, cover, contain, lengths, percentages                              |
+| font-family           | font names, generic families like serif, sans-serif, monospace          |
+| font-size             | lengths like px, em, rem, percentages, keywords like small, large       |
+| font-weight           | normal, bold, lighter, bolder, 100 to 900                               |
+| font-style            | normal, italic, oblique                                                 |
+| font-variant          | normal, small-caps                                                      |
+| text-align            | left, right, center, justify, start, end                                |
+| text-decoration       | none, underline, overline, line-through                                 |
+| text-transform        | none, uppercase, lowercase, capitalize                                  |
+| line-height           | normal, number, length, percentage                                      |
+| letter-spacing        | normal, length                                                          |
+| word-spacing          | normal, length                                                          |
+| text-indent           | length, percentage                                                      |
+| white-space           | normal, nowrap, pre, pre-wrap, pre-line                                 |
+| display               | block, inline, inline-block, flex, grid, none                           |
+| position              | static, relative, absolute, fixed, sticky                               |
+| top                   | length, percentage, auto                                                |
+| right                 | length, percentage, auto                                                |
+| bottom                | length, percentage, auto                                                |
+| left                  | length, percentage, auto                                                |
+| z-index               | integer, auto                                                           |
+| float                 | left, right, none                                                       |
+| clear                 | left, right, both, none                                                 |
+| width                 | length, percentage, auto                                                |
+| height                | length, percentage, auto                                                |
+| min-width             | length, percentage                                                      |
+| max-width             | length, percentage                                                      |
+| min-height            | length, percentage                                                      |
+| max-height            | length, percentage                                                      |
+| margin                | length, percentage, auto                                                |
+| padding               | length, percentage                                                      |
+| border                | width style color, for example 1px solid black                          |
+| border-width          | length, keyword values like thin, medium, thick                         |
+| border-style          | none, solid, dashed, dotted, double, groove, ridge, inset, outset       |
+| border-color          | color names, hex, rgb(...), transparent                                 |
+| border-radius         | length, percentage                                                      |
+| box-sizing            | content-box, border-box                                                 |
+| overflow              | visible, hidden, scroll, auto                                           |
+| opacity               | 0 to 1                                                                  |
+| visibility            | visible, hidden, collapse                                               |
+| flex-direction        | row, row-reverse, column, column-reverse                                |
+| justify-content       | flex-start, flex-end, center, space-between, space-around, space-evenly |
+| align-items           | stretch, flex-start, flex-end, center, baseline                         |
+| gap                   | length                                                                  |
+| grid-template-columns | lengths, percentages, fr, repeat(...)                                   |
+| grid-template-rows    | lengths, percentages, fr, repeat(...)                                   |
+| align-content         | stretch, center, start, end, space-between, space-around                |
